@@ -1,0 +1,17 @@
+body
+{
+font-family: Verdana, sans-serif;
+text-align:center;
+}
+p{
+  padding: 40px;
+  padding-bottom: 5px;
+}
+#images
+{
+    padding: 60px;
+}
+img{
+  width: 640px;
+  height: 360px;
+}
